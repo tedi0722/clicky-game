@@ -83,7 +83,7 @@ export default class App extends Component {
               handleShuffle={this.handleShuffle}
               handleScore={this.handleScore}
               handleReset={this.handleReset}
-              // image={card.image}
+              image={card.image}
             />
           ))}
         </div>
