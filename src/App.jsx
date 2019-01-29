@@ -57,7 +57,7 @@ export default class App extends Component {
       // });
       console.log("test");
     }
-    // this.handleShuffle();
+    this.handleShuffle();
   }
   
   handleReset = () => {

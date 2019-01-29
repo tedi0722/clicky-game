@@ -5,7 +5,7 @@ const Header = props => (
     <PageHeader>
         <div style={styles.headerContainerStyle}>
             <div>
-                <h1 style={styles.h1Style}>React</h1>
+                <h1 style={styles.h1Style}>Clicky Game!</h1>
             </div>
             <div>
                 <h2>{props.message}</h2>
